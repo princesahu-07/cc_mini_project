@@ -1,0 +1,4 @@
+Flask>=3.0,<4
+cryptography>=42,<47
+hdfs>=2.7,<3
+requests>=2.31,<3
